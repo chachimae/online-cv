@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Mae Obiniana
-  tagline: Full Stack Developer
+  tagline: cc
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -33,15 +33,12 @@ sidebar:
     title: Interests
     info:
     - item: Travel Exploration
-      link:
 
 
     - item: Adventure and Outdoor Activities
-      link:
 
 
     - item: Cooking
-      link:
 
 
 career-profile:
@@ -92,57 +89,39 @@ certifications:
   title: Certifications
   list:
   - name: Sabre Functionalities For Tourism Students
-    start: 
+    start:  
     end: October 2023
     organization: De La Salle Lipa
-    credentialid: 
-    credentialurl: 
-    credentialname: 
     details: |
 
   - name: BAFBEX Master Class: Going Beyond the HORIZON
-    start: 
+    start:  
     end: October 2023
     organization: De La Salle Lipa
-    credentialid: 
-    credentialurl:
-    credentialname: 
     details: |
 
   - name: Department of Tourism Training Team
-    start: 
+    start:  
     end: May 2023
     organization: De La Salle Lipa
-    credentialid: 
-    credentialurl:
-    credentialname: 
     details: |
 
   - name: Career Talk: Building the Dream by Transforming Adversities into Opportunities
     start: 
     end: September 2021
     organization: De La Salle Lipa
-    credentialid: 
-    credentialurl:
-    credentialname: 
     details: |
 
   - name: DLSL Tourism Interactive Conference Talk
-    start: 
+    start:  
     end: May 2021
     organization: De La Salle Lipa
-    credentialid: 
-    credentialurl:
-    credentialname: 
     details: |
 
   - name: Tourism and Hospitality Industry Career Talk: Reinventing Your Career during Challenging Times
-    start: 
+    start:  
     end: September 2020
     organization: De La Salle Lipa
-    credentialid: 
-    credentialurl:
-    credentialname: 
     details: |
 
 projects:
