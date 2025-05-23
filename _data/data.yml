@@ -56,20 +56,9 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Bachelor of Science in Tourism Management
+    university: De La Salle Lipa
+    time: August 2020 - July 2024
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,45 +69,24 @@ education:
         - Bullet point
 
 experiences:
-  title: Experiences
+  title: Professional Experience
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Chief Sales Officer (CSO)
+    time: October 2024 - Present
+    company: Fortune King Emporium, Cavite
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+        - Oversaw daily sales operations and developed strategies that boosted monthly revenue by 25%.
+        - Managed a team of sales representatives and provided training to improve performance and customer service.
+        - Monitored inventory, handled client negotiations, and mainatined relationships with suppliers.
+        - Utilized digital tools to track performance and generate sales reports for upper management.
+  - role: Executive Assistance
+    time: March 2021 - November 2023
+    company: Purified Drinking Water Station, Laguna
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - Managed day-to-day administrative operations, ensuring efficient office workflow and timely completion of tasks.
+        - Prepared and reviewed internal and external correspondence, maintained digital filing systems, and handled confidential information with professionalism and discretion.
+        - Acted as a liaison between the ecexutive office and external partners to ensure efficient communication.
+        - Assisted in customer service operations by handling inquiries and resolving issues,contributing to a 20% improvement in customer satisfaction ratings.
 
 certifications:
   title: Certifications
