@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Mae Obiniana
-  tagline: cc
+  tagline: Account Executive
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -179,32 +179,29 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Remote Work & Collaboration Tools
-    level: 98%
+  - name: Time Management & Multitasking
+    level: 97%
 
-  - name: Social Media & Basic Canva Design
-    level: 94%
+  - name: Client Relationship Management
+    level: 95%
 
-  - name: CRM & Communication Tools
+  - name: Sales & Business Development
     level: 90%
 
   - name: Executive Support & Scheduling
     level: 95%
 
-  - name: Calendar & Email Management 
-    level: 95%
+  - name: CRM & Communication Tools 
+    level: 90%
 
-  - name: Communication & Correspondence
-    level: 97%
+  - name: Executive Support & Scheduling
+    level: 95%
 
   - name: Data Management & Reporting
-    level: 94%
-
-  - name: Sales Strategy & Customer Relations
     level: 93%
 
-  - name: Time Management & Multitasking
-    level: 95%
+  - name: Calendar & Email Management
+    level: 96%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
