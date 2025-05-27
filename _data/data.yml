@@ -88,19 +88,43 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: Sabre Functionalities For Tourism Students
-    organization: De La Salle Lipa
-  - name: BAFBEX Master Class: Going Beyond HORIZON
-    organization: De La Salle Lipa
-  - name: Department of Tourism Training Team
-    organization: De La Salle Lipa
-  - name: Career Talk: Building the Dream by Transforming Adversities into Opportunities
-    organization: De La Salle Lipa
-  - name: DLSL Tourism Interactive Conference Talk
-    organization: De La Salle Lipa
-  - name: Tourism and Hospitality Industry Career Talk: Reinventing Your Career During Challenging Times
-    organization: De La Salle Lipa
+  - name: CV Builder
+    start: 2020
+    end: 2021
+    organization: Microsoft
+    credentialid: 111-222
+    credentialurl: www.google.com
+    credentialname: Google
+    details: |
+      Details about cert. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit.
+      Nullam eget orci purus. Nullam ultrices neque nibh.
+      Aenean fermentum, felis vulputate suscipit accumsan,
+      sem enim bibendum augue, sed convallis arcu lacus at dui.
+      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      Praesent venenatis erat non augue suscipit consectetur.
 
+      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+      fringilla vel. Ut euismod, sem sed vulputate venenatis,
+      justo diam viverra velit, sed rhoncus leo leo eu justo.
+      Suspendisse placerat risus ante, sed porta nisi blandit at.
+  - name: Git learning
+    start: 2019
+    end:
+    organization: Microsoft
+    credentialid: 111-222
+    credentialurl: www.github.com
+    credentialname: Github
+    details: |
+      Older certification. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit.
+      Nullam eget orci purus. Nullam ultrices neque nibh.
+      Aenean fermentum, felis vulputate suscipit accumsan,
+      sem enim bibendum augue, sed convallis arcu lacus at dui.
+      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      Praesent venenatis erat non augue suscipit consectetur.
 projects:
   title: Projects
   intro: >
