@@ -92,6 +92,8 @@ certifications:
     organization: De La Salle Lipa
   - name: Department of Tourism Training Team
     organization: De La Salle Lipa
+  - name: Test
+    organization: test
 
 projects:
   title: Projects
