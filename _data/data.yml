@@ -92,9 +92,14 @@ certifications:
     organization: De La Salle Lipa
   - name: BAFBEX Master Class: Going Beyond the HORIZON
     organization: De La Salle Lipa
-  - name: Test
-    organization: test
-    
+  - name: Test1
+    organization: test1
+  - name: Test2
+    organization: test2
+  - name: Test3
+    organization: test3
+  - name: Test4
+    organization: test4
 projects:
   title: Projects
   intro: >
